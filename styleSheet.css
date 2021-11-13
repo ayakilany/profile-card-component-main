@@ -1,7 +1,3 @@
-@font-face {
-    font-family:Kumbh Sans ;
-    src: url(https://fonts.google.com/specimen/Kumbh+Sans);
-}
 @media screen and (max-width:4000px) {
 .card{
     width: 25%;
